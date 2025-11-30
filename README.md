@@ -13,7 +13,7 @@ How to run the app:
    - uvicorn app.main:app --reload
 
 4. Start the Stremlit UI:
-   in terminal, go to the "ui" folder inside the project and run the command
+   in another terminal, go to the "ui" folder inside the project and run the command
    - streamlit run app.py
 
-5. Upload a resume in pdf format to evaluate the candidate.
+5. Upload a resume in pdf format and the job description in text formate to evaluate the candidate.
