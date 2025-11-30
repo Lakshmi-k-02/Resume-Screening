@@ -45,6 +45,7 @@ AI / LLM
 OpenAI API 
 
 🚀 Setup & Run Instructions
+
 1️⃣ Install required libraries
 pip install -r requirements.txt
 
