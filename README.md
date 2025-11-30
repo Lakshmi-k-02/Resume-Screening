@@ -47,9 +47,11 @@ OpenAI API
 🚀 Setup & Run Instructions
 
 1️⃣ Install required libraries
+
 pip install -r requirements.txt
 
 2️⃣ Install Uvicorn (server)
+
 pip install uvicorn
 
 3️⃣ Start the Backend API
@@ -63,6 +65,7 @@ uvicorn app.main:app --reload
 Open a second terminal → go to the ui folder:
 
 cd ui
+
 streamlit run app.py
 
 5️⃣ Use the Application
